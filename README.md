@@ -20,4 +20,4 @@
 
 ---
 <br/>
-<img align="center"  alt="Sakib's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat-khan-pathan&show_icons=true" />
+<img align="center"  alt="Rifat's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-M-Mazharul-Islam-Rifat&show_icons=true" />
