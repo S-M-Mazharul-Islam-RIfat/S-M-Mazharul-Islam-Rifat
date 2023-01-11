@@ -18,7 +18,7 @@
 <br />
 
 <a href="https://codeforces.com/profile/mj_riffu">
-   <img src="https://raw.githubusercontent.com/S-M-Mazharul-Islam-Rifat/ct-stats/main/output/max_rating.svg" />
+   <img src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/max_rating.svg" />
 </a
 <img src="https://komarev.com/ghpvc/?username=mj-riffu&label=Profile%20views&color=0e75b6&style=flat" alt="Mazharul Islam Rifat" />
 
