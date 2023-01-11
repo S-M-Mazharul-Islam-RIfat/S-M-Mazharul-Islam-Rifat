@@ -9,8 +9,24 @@
 
 ### Connect with me:
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>][facebook]
+
+<a href="https://www.linkedin.com/in/s-m-mazharul-islam-rifat/">
+    <img align="left"  width="32px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
+</a>
 <br />
+<br />
+
+<a href="https://codeforces.com/profile/mj_riffu">
+   <img src="https://raw.githubusercontent.com/mj-riffu/ct-stats/main/output/max_rating.svg" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=mj-riffu&label=Profile%20views&color=0e75b6&style=flat" alt="Mazharul Islam Rifat" />
+
+
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=S-M-Mazharul-Islam-Rifat&label=Profile%20views&color=0e75b6&style=flat" alt="S M Mazharul Islam Rifat" /> </p>
 
