@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2022 Goals: Capturing React.JS,Node.JS
+- 🥅 2023 Goals: Capturing React.JS,Node.JS
 - ⚡ Fun fact: I love to solve programming problems
 
 ### Connect with me:
